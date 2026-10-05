@@ -24,7 +24,7 @@ pyinstaller tailor_shop.spec --clean
 - 📐 Full measurement form (10 fields)
 - 📋 Order management with status tracking
 - 💰 Financial tracking (total / advance / balance)
-- 🧾 Order receipt generator (save as .txt)
+- 🧾 Order receipt generator (save as PDF)
 - 💾 One-click database backup to USB/folder
 - 🔄 Restore from backup
 - 📵 100% offline — no internet required
